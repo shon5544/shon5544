@@ -14,6 +14,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shon5544&show_icons=true&theme=radical)
 ### Web Stack
 >![image](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Html5&logoColor=black) ![image](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=black)![image](https://img.shields.io/badge/Js-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![image](https://img.shields.io/badge/Ts-3178C6?style=flat-square&logo=TypeScript&logoColor=black) ![image](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
+
 > ![image](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black) ![image](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white) ![image](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 
 ### Mobile Stack
