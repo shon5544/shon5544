@@ -3,8 +3,8 @@
 ###
 
 > ###### I am majoring in software at Soongsil University!
-#
-#
+
+
 ##### ✉️Email
 ###### sbs8239@gmail.com
 
