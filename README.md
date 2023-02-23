@@ -3,7 +3,7 @@
 ###
 
 > ###### I am majoring in software at Soongsil University!
-> ###### 숭실대 소프트웨어학부 재학 중입니다 :)
+> ###### 숭실대 소프트웨어학부에 재학 중입니다 :)
 
 
 ##### ✉️Email
