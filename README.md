@@ -12,7 +12,7 @@
 
 * * *
 ## Introducing My Stack!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shon5544&show_icons=true&theme=radical)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shon5544&show_icons=true&theme=radical) -->
 
 
 ### Back-end Stack
