@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-###
-
-> ###### I am majoring in software at Soongsil University!
-> ###### 숭실대학교 소프트웨어학부에 재학 중입니다 :)
-
-
 ##### ✉️ Email
 ###### sbs8239@gmail.com
 
