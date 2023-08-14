@@ -6,7 +6,8 @@ sbs8239@gmail.com
 ## Introducing My Stack!
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shon5544&show_icons=true&theme=radical) -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shon5544&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shon5544&theme=nord_bright)
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shon5544&theme=nord_bright) -->
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=shon5544&show_icons=true&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shon5544&theme=nord_bright)
 
 
