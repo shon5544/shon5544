@@ -21,7 +21,7 @@ sbs8239@gmail.com
 ![image](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=React&logoColor=black)
 
 ### Game Dev Stack
-![image](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white) ![image](https://img.shields.io/badge/C#-239120?style=flat-square&logo=CSharp&logoColor=white)
+![image](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white) ![image](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=CSharp&logoColor=white)
 
 ### Others
 ![image](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white) ![image](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![image](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![image](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white)
