@@ -24,7 +24,7 @@ sbs8239@gmail.com
 ![image](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white) ![image](https://img.shields.io/badge/C_sharp-239120?style=flat-square&logo=CSharp&logoColor=white)
 
 ### Others
-![image](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white) ![image](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![image](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white)
+![image](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white) ![image](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C&logoColor=white) ![image](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![image](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white)
 
 
 
