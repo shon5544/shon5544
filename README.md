@@ -9,6 +9,11 @@ sbs8239@gmail.com
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=shon5544&show_icons=true&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shon5544&theme=nord_bright)
 
+## Activity
+- 숭실대학교 IT 중앙동아리 Yourssu (2023.09~)
+- Google Developer Student Club Soongsil (2023.11~)
+- 대학생 IT 연합 동아리 UMC (2023.03~2024.03)
+
 ## Introducing My Stack!
 
 ### Back-end Stack
