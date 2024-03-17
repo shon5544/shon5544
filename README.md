@@ -10,8 +10,8 @@ sbs8239@gmail.com
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shon5544&theme=nord_bright)
 
 ## Activity
-- 숭실대학교 IT 중앙동아리 Yourssu (2023.09~)
 - Google Developer Student Club Soongsil (2023.11~)
+- 숭실대학교 IT 중앙동아리 Yourssu (2023.09~)
 - 대학생 IT 연합 동아리 UMC (2023.03~2024.03)
 
 ## Introducing My Stack!
