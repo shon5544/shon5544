@@ -3,11 +3,7 @@
 ### ✉️ Email
 sbs8239@gmail.com
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shon5544&show_icons=true&theme=radical) -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shon5544&theme=nord_bright)
-<!--![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shon5544&theme=nord_bright) -->
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=shon5544&show_icons=true&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shon5544&theme=nord_bright)
+[![Github](https://www.codenary.co.kr/widget/github/api?username=shon5544)](https://www.codenary.co.kr/user-profile/detail/shon5544?github_ride=true&utm_source=github)
 
 ## Activity
 - Google Developer Student Club Soongsil (2023.11~)
@@ -17,15 +13,10 @@ sbs8239@gmail.com
 ## Introducing My Stack!
 
 ### Main
-![image](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white) ![image](https://img.shields.io/badge/Java-4479A1?style=flat-square&logo=Java&logoColor=FF9E0F) ![image](https://img.shields.io/badge/Spring_boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white) ![image](https://img.shields.io/badge/JPA-black?style=flat-square&logo=Server&logoColor=white) ![image](https://img.shields.io/badge/Spring_Data-68BC71?style=flat-square&logo=Spring&logoColor=white) ![image](https://img.shields.io/badge/Spring_Security-68BC71?style=flat-square&logo=SpringSecurity&logoColor=white) ![image](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![image](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
+![springboot](https://www.codenary.co.kr/widget/github-techstack/api?name=springboot) ![kotlin](https://www.codenary.co.kr/widget/github-techstack/api?name=kotlin) ![java](https://www.codenary.co.kr/widget/github-techstack/api?name=java) ![github](https://www.codenary.co.kr/widget/github-techstack/api?name=github) ![mysql](https://www.codenary.co.kr/widget/github-techstack/api?name=mysql) ![docker](https://www.codenary.co.kr/widget/github-techstack/api?name=docker) ![junit](https://www.codenary.co.kr/widget/github-techstack/api?name=junit) ![mockito](https://www.codenary.co.kr/widget/github-techstack/api?name=mockito) ![githubaction](https://www.codenary.co.kr/widget/github-techstack/api?name=githubaction) ![awscodedeploy](https://www.codenary.co.kr/widget/github-techstack/api?name=awscodedeploy) ![mongodb](https://www.codenary.co.kr/widget/github-techstack/api?name=mongodb) ![elasticsearch](https://www.codenary.co.kr/widget/github-techstack/api?name=elasticsearch) ![redis](https://www.codenary.co.kr/widget/github-techstack/api?name=redis) 
 
 ### etc.
-![image](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Html5&logoColor=black) ![image](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=black) ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![image](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black) ![image](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
-![image](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=React&logoColor=black)
-![image](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white) ![image](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=CSharp&logoColor=white)
-![image](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white) ![image](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![image](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![image](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white)
-
-
+![python](https://www.codenary.co.kr/widget/github-techstack/api?name=python) ![javascript](https://www.codenary.co.kr/widget/github-techstack/api?name=javascript) ![typescript](https://www.codenary.co.kr/widget/github-techstack/api?name=typescript) ![reactjs](https://www.codenary.co.kr/widget/github-techstack/api?name=reactjs) ![reactnative](https://www.codenary.co.kr/widget/github-techstack/api?name=reactnative) ![electron](https://www.codenary.co.kr/widget/github-techstack/api?name=electron) ![unity](https://www.codenary.co.kr/widget/github-techstack/api?name=unity) ![styledcomponents](https://www.codenary.co.kr/widget/github-techstack/api?name=styledcomponents) 
 
 <!--
 **shon5544/shon5544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
