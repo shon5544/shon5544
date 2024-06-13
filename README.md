@@ -6,7 +6,7 @@ sbs8239@gmail.com
 [![Github](https://www.codenary.co.kr/widget/github/api?username=shon5544)](https://www.codenary.co.kr/user-profile/detail/shon5544?github_ride=true&utm_source=github)
 
 ## Activity
-- Google Developer Student Club Soongsil (2023.11~)
+- Google Developer Student Club Soongsil (2023.09~)
 - 숭실대학교 IT 중앙동아리 Yourssu (2023.09~)
 - 대학생 IT 연합 동아리 UMC (2023.03~2024.03)
 
