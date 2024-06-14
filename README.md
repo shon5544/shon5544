@@ -8,7 +8,7 @@ sbs8239@gmail.com
 ## Activity
 - Google Developer Student Club Soongsil (2023.09~)
 - 숭실대학교 IT 중앙동아리 Yourssu (2023.09~)
-- 대학생 IT 연합 동아리 UMC (2023.03~2024.03)
+- 대학생 IT 연합 동아리 UMC (2023.03~2024.02)
 
 ## Introducing My Stack!
 
