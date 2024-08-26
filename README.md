@@ -3,7 +3,7 @@
 ### ✉️ Email
 sbs8239@gmail.com
 
-[![Github](https://www.codenary.co.kr/widget/github/api?username=shon5544)](https://www.codenary.co.kr/user-profile/detail/shon5544?github_ride=true&utm_source=github)
+<!--[![Github](https://www.codenary.co.kr/widget/github/api?username=shon5544)](https://www.codenary.co.kr/user-profile/detail/shon5544?github_ride=true&utm_source=github) -->
 
 ## Activity
 - Google Developer Student Club Soongsil (2023.09~)
