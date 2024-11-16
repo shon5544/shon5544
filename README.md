@@ -1,6 +1,6 @@
 ## Hi there 👋
-
-<!--[![Github](https://www.codenary.co.kr/widget/github/api?username=shon5544)](https://www.codenary.co.kr/user-profile/detail/shon5544?github_ride=true&utm_source=github) -->
+- 숭실대학교 소프트웨어학부 22학번
+- 현재 휴학 중
 
 ## Activity
 - Google Developer Student Club Soongsil (2023.09~)
