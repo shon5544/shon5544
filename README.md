@@ -2,6 +2,10 @@
 - 숭실대학교 소프트웨어학부 22학번
 - 현재 휴학 중
 
+## Career
+- PLAY LINKS(2024.01~)
+  - 지니스튜디오 서버개발팀
+
 ## Activity
 - Google Developer Student Club Soongsil (2023.09~)
 - 숭실대학교 IT 중앙동아리 Yourssu (2023.09~)
