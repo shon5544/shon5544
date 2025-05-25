@@ -3,7 +3,7 @@
 - 현재 휴학 중
 
 ## Career
-- PLAY LINKS(2024.01~)
+- PLAY LINKS(2025.01~)
   - 지니스튜디오 서버개발팀
 
 ## Activity
