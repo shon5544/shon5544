@@ -11,7 +11,7 @@
 - 숭실대학교 IT 중앙동아리 Yourssu (2023.09~)
 - 대학생 IT 연합 동아리 UMC (2023.03~2024.02)
 
-## Introducing My Stack!
+## Tech Stack
 
 ### Main
 ![nodejs](https://www.codenary.co.kr/widget/github-techstack/api?name=nodejs) ![typescript](https://www.codenary.co.kr/widget/github-techstack/api?name=typescript) ![springboot](https://www.codenary.co.kr/widget/github-techstack/api?name=springboot) ![kotlin](https://www.codenary.co.kr/widget/github-techstack/api?name=kotlin) ![java](https://www.codenary.co.kr/widget/github-techstack/api?name=java) ![github](https://www.codenary.co.kr/widget/github-techstack/api?name=github) ![mysql](https://www.codenary.co.kr/widget/github-techstack/api?name=mysql) ![docker](https://www.codenary.co.kr/widget/github-techstack/api?name=docker) ![junit](https://www.codenary.co.kr/widget/github-techstack/api?name=junit) ![mockito](https://www.codenary.co.kr/widget/github-techstack/api?name=mockito) 
